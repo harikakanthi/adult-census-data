@@ -4,7 +4,7 @@
 * The data was segregation of individuals based on their income.
 * The income threshold was set as $50000
 * Any individual is classified into one of the two classes 
-1. income > $50000
-2. income <= $50000
+      1. income > $50000
+      2. income <= $50000
 * Income classification was done using the features age, race, gender, education etc.
 * Problem Statement : To create binary classifier such that the individual is classified into the respective class.
